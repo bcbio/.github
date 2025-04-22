@@ -65,6 +65,7 @@ To move forward, the team proposed the following priority actions:
 
 1. 📚 Create documentation on how users can contribute to or develop new reporting resources.
     - This will include templates for contributions, standards, code formatting, resource submission process, etc.
+    - Coordinate with nf-core core team to initiate the plan for merging with nf-core resources
 
 2. 🚀 Develop user documentation on how to use the reporting templates.
     - This guide will walk users through starting with a sample template-report.
