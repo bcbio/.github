@@ -4,6 +4,8 @@
 
 This project started in the Harvard Chan Bioinformatics Core as a framework to analyze sequencing data. We have migrated the vision to contain templates for downstream analysis of nf-core pipelines
 
+** Check committee meetings [notes](https://github.com/bcbio/.github/blob/main/profile/committee_meetings.md) 📝 
+
 ### 👩‍💻 Useful resources
 
 Here we list all the reports we mantain currently:
