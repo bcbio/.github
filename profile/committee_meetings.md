@@ -4,16 +4,9 @@
 
 **Committee:** Phil Ewels, Lukas Weber, Geraldine Van der Auwera
 
-Meetings Notes:
-- Integration with nf-core: everybody agreed that this project could be part of nf-core as a new type of element in the community
-- We decided to focus on templates with guidelines for analysts. Templates will assume nf-core output folder structure with documentation for customization.
-- We included Shiny apps as part of the resources.
-- Test data can come from nf-core full AWS examples, Bioconductor Experiment Hubs, and nf-core small data-sets
-- Propose next steps:
-   - Documentation on how to contribute/develop resources
-  - Documentation on how to use them, what are the first steps, using one template-report as an exmaple.
- 
-Sure! Here's a rewritten version of your meeting summary with improved context, clarity, and references/links for relevant resources:
+**Current reports:**
+- https://github.com/bcbio/rnaseq-reports
+- https://github.com/bcbio/singlecell-reports
 
 ---
 
@@ -27,7 +20,7 @@ adhering to the same best practices and versioning policies as existing pipeline
 
 ---
 
-### 📋 Standardized Templates for Reports
+### 📋 Community Templates for Reports
 
 The project will focus on creating customizable reporting templates, guided by best-practice documentation. These templates are designed for analysts and will:
 
